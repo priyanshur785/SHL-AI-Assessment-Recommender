@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration_minutes": 40,
+    "test_type": "Coding"
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration_minutes": 30,
+    "test_type": "Coding"
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration_minutes": 30,
+    "test_type": "Coding"
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration_minutes": 45,
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration_minutes": 35,
+    "test_type": "Marketing"
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration_minutes": 40,
+    "test_type": "QA"
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration_minutes": 30,
+    "test_type": "Language"
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration_minutes": 60,
+    "test_type": "Personality"
+  },
+  {
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration_minutes": 60,
+    "test_type": "Aptitude"
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration_minutes": 55,
+    "test_type": "Sales"
+  }
+]

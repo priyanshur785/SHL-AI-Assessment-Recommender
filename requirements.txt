@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+python-Levenshtein
+langchain
+langchain-core
+langchain-groq
+groq
+python-dotenv
