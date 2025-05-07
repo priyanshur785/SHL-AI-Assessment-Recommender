@@ -32,7 +32,7 @@ shl-ai-assessment-recommender/
 ├── API/
 │   └── api.py                # FastAPI backend logic
 ├── shl_assessment.json       # Assessment catalog
-├── streamlit_app.py          # Streamlit frontend
+├── app.py          # Streamlit frontend
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 ```
