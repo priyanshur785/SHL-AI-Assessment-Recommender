@@ -64,7 +64,7 @@ shl-ai-assessment-recommender/
 
 5. **Run the Streamlit app**
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run app.py
    ```
 
 ---
